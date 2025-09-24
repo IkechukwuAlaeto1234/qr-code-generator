@@ -1,0 +1,5 @@
+{
+  "name": "QR Code Generator",
+  "description": "A sleek and fast QR code generator. Instantly create and download high-quality QR codes for URLs, text, and more with a modern and user-friendly interface.",
+  "requestFramePermissions": []
+}
