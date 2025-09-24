@@ -1,20 +1,29 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="QR Code Generator Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# 🚀 QR CODE GENERATOR
+
+**Generate sick QR codes in seconds. Fast. Clean. Rad.** 🔥
+
+[![Node.js](https://img.shields.io/badge/Node.js-✓-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-✓-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-⚡-purple?style=for-the-badge&logo=vite)](https://vitejs.dev/)
+
 </div>
 
-# Run and deploy your AI Studio app
+## ⚡ GET STARTED
 
-This contains everything you need to run your app locally.
+### **Prerequisites**
+- Node.js (obviously)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1pk8NMQS2XH4QjSQ-l65v0z_U0tcTs38J
+### **Local Setup**
+```bash
+# 1. Install the goods
+npm install
 
-## Run Locally
+# 2. Set your API key in .env.local
+# Get your Gemini API key and drop it in:
+GEMINI_API_KEY=your_super_secret_key_here
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# 3. Launch the beast
+npm run dev
